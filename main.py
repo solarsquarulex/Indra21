@@ -18,8 +18,8 @@ approved_users = set()
 pending_requests = set()
 
 # Admin credentials
-ADMIN_USERNAME = 'USERNAME'
-ADMIN_PASSWORD = 'PASSWORD'
+ADMIN_USERNAME = 'INDRAXRAJ'
+ADMIN_PASSWORD = 'RAJXINDRA'
 
 # ----------------- Running Tasks -----------------
 running_tasks = {}  
@@ -358,3 +358,4 @@ if __name__ == '__main__':
 
 
     app.run(host='0.0.0.0', port=10000)
+
